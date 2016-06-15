@@ -27,7 +27,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/pkgcloud/pkgcloud.git"
+    "url": "http://github.com/containership/pkgcloud.git"
   },
   "keywords": [
     "cloud",
